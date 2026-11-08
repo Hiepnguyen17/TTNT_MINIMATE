@@ -1,0 +1,1 @@
+"""MINIMATE terminal baseline."""
